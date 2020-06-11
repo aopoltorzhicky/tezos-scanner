@@ -1,4 +1,4 @@
-module github.com/aopoltorzhicky/tezos-scanner/scanner
+module github.com/aopoltorzhicky/tezos-scanner
 
 go 1.13
 

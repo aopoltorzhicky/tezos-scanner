@@ -5,6 +5,8 @@ Scan tezos network via RPC
 ## Usage
 
 ```go
+import "github.com/aopoltorzhicky/tezos-scanner/scanner"
+
 network := scanner.NewNetwork("NetXdQprcVkpaWU")  // Set chain ID for checking
 
 bootstrap := []string{

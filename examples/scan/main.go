@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"gitlab.com/aopoltorzhicky/tezos-scanner/scanner"
+	"github.com/aopoltorzhicky/tezos-scanner/scanner"
 )
 
 func main() {

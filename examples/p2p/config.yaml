@@ -1,0 +1,12 @@
+bootstrap:
+  - dubnodes.tzbeta.net
+  - franodes.tzbeta.net
+  - sinnodes.tzbeta.net
+  - nrtnodes.tzbeta.net
+  - pdxnodes.tzbeta.net
+  - rpc.tzkt.io
+attempts:
+  timeout: 100
+  count: 10
+synced_time: 120
+threads_count: 10

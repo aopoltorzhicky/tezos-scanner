@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/aopoltorzhicky/tezos-scanner/scanner"
+	scanner "github.com/aopoltorzhicky/tezos-scanner/rpc"
 )
 
 func main() {

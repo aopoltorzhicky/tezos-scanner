@@ -5,7 +5,7 @@ Scan tezos network via RPC
 ## Usage
 
 ```go
-import "github.com/aopoltorzhicky/tezos-scanner/scanner"
+import scanner "github.com/aopoltorzhicky/tezos-scanner/rpc"
 
 network := scanner.NewNetwork("NetXdQprcVkpaWU")  // Set chain ID for checking
 
